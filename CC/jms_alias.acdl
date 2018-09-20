@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<asset_composite name="jms_alias" displayName="jms_alias" targetNamespace="http://namespaces.softwareag.com/webMethods/CC" xmlns="http://namespaces.softwareag.com/acdl/1.0" xmlns:EDA="http://namespaces.softwareag.com/webMethods/EDA" xmlns:MWS="http://namespaces.softwareag.com/webMethods/MWS" xmlns:IS="http://namespaces.softwareag.com/webMethods/IS" xmlns:APIPORTAL="http://namespaces.softwareag.com/webMethods/APIPORTAL" xmlns:AgileApps="http://namespaces.softwareag.com/webMethods/AgileApps" xmlns:BROKER="http://namespaces.softwareag.com/webMethods/BROKER" xmlns:implDetails="http://namespaces.softwareag.com/acdl/implDetails" xmlns:UniversalMessaging="http://namespaces.softwareag.com/webMethods/UniversalMessaging" xmlns:TN="http://namespaces.softwareag.com/webMethods/TN" xmlns:RULES="http://namespaces.softwareag.com/webMethods/RULES" xmlns:BPM="http://namespaces.softwareag.com/webMethods/BPM" xmlns:Optimize="http://namespaces.softwareag.com/webMethods/Optimize">
+    <buildInfo name="BuildVersion" value="1"/>
+    <buildInfo name="build.timestamp" value="2018-09-20T19:26:14"/>
+    <buildInfo name="productId" value="integrationServer"/>
+    <property name="integrationserver-default.common-jms-invdu_test_jms_alias.jms.user" many="false" isSecure="false" displayName="integrationserver-default.common-jms-invdu_test_jms_alias.jms.user">
+        <value>Administrator</value>
+    </property>
+    <property name="integrationserver-default.common-jms-invdu_test_jms_alias.jms.password" many="false" isSecure="true" displayName="integrationserver-default.common-jms-invdu_test_jms_alias.jms.password">
+        <value>'{AES/CBC/PKCS5Padding}{HE7cl697TJlzyyQLcpMV5cv91OC76nUN9nD/zG97Bhc=}{yLD0D4pSQr2cPhMTdZfCEw==}NyjdcTtWwpj5FnHBBtrG4A=='</value>
+    </property>
+</asset_composite>
